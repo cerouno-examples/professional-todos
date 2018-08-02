@@ -7,10 +7,10 @@ App de Ejemplo de Todo-List con Express y Sequelize
 * Node
 * Sequelize 3
 
-## Para ver el contenido
+## Para correr el proyecto
 
-`npm install` o `yarn`
+`npm install` - o  - `yarn`
 
 Por ejemplo:
 
-`npm run start` o `yarn start`
+`npm run start` - o - `yarn start`
